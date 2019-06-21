@@ -1,0 +1,39 @@
+.h1{
+	font-size: 50px;
+}
+.BAZINGA {
+	text-align:center;
+	font-size:80px;
+	font-family: 'Delius Unicase', cursive;
+}
+body{
+	height:100vh;
+	width:100vw;
+	margin: 0;
+	background-image: url("images/SURREAL.jpg");
+	background-size:cover;
+}
+.BAZINGA2 {
+	text-align:left;
+	font-size:50px;
+	font-family: 'Delius Unicase', cursive;
+}
+.paragraph{
+	background-image: url ("images/JoinSurreal.png");
+	width: 100%;
+	height: 15%;
+}
+.sheldon{
+	display:flex;
+	width: 50%;
+	height: 30%;
+}
+.caption1{
+	font-size: 24px;
+	font-family: 'Delius Unicase' , cursive;
+}
+.caption2{
+	font-size: 18px;
+	font-family: 'Delius Unicase' , cursive;
+}
+
